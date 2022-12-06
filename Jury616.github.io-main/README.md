@@ -4,7 +4,7 @@ title: "Elysia"
 ---
 **朱锐-2022210991**
 ---
- <img src="https://github.com/Jury616/Jury616.github.io/blob/main/a.png">
+ <img src="https://github.com/Jury616/jury616.github.io/blob/main/Jury616.github.io-main/a.png">
 # TruE Elysia
 
 
